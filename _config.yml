@@ -43,7 +43,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: Maimoons
 gitlab_username: # your GitLab user name
 twitter_username: Maimoony # your Twitter handle
-linkedin_username: Maimoon Siddiqui # your LinkedIn user name
+linkedin_username: maimoon-siddiqui # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -56,7 +56,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
 contact_note: >
-  Quickest way to contact would be by email.
+  Want to chat? Send an email :)
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
@@ -163,7 +163,7 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false  # enables google analytics
+enable_google_analytics:    true  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
 enable_mansory:             true   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
