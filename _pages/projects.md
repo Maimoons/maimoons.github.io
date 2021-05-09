@@ -9,34 +9,6 @@ horizontal: false
 ---
 
 <div class="projects">
-  {% if site.projects.sort_by == 'stars' %}
-    {% assign sort_order = 'stargazers_count', 'last' %}
-  {% else %}
-    {% assign sort_order = 'pushed_at' %}
-  {% endif %}
-
-  {% if site.projects.exclude.archived && site.projects.exclude.forks %}
-    {% assign filtered_repos = site.github.public_repositories | where:'archived', false | where:'fork', false | sort: sort_order | reverse %}
-  {% elsif site.projects.exclude.archived %}
-    {% assign filtered_repos = site.github.public_repositories | where:'archived', false | sort: sort_order | reverse %}
-  {% elsif site.projects.exclude.forks %}
-    {% assign filtered_repos = site.github.public_repositories | where:'fork', false | sort: sort_order | reverse %}
-  {% else %}
-    {% assign filtered_repos = site.github.public_repositories | sort: sort_order | reverse %}
-  {% endif %}
-
-  {% for repository in filtered_repos | limit: site.projects.limit %}
-    {% unless site.projects.exclude.projects contains repository.name %}
-     <div class="container">
-          <div class="row row-cols-2">
-          {% include repo-card.html %}
-          </div>
-      </div>
-    {% endunless %}
-  {% endfor %}
-</div>
-
-<div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
     {% for category in page.display_categories %}
