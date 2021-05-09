@@ -21,8 +21,6 @@ nav: true
 
 <div class="teaching">
   <h2>teaching</h2>
-    {% for y in [2019] %}
-      <h2 class="year">{{y}}</h2>
+      <h2 class="year">2019</h2>
       <a href="https://www.coursicle.com/cmu/courses/STU/98357/"> 98357: Introduction to Pakistan and its Culture </a>
-    {% endfor %}
 </div>
