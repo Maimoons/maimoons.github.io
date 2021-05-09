@@ -1,11 +1,13 @@
 ---
 layout: page
 permalink: /academics/
-title: 
+title: academics
 description: Little undergraduate teaching and academic experiences
 years: [2020]
 nav: true
 ---
+
+<hr> </hr>
 
 <div class="publications"> 
   <h2>Publication</h2>
