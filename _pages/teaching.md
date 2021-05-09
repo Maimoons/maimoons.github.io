@@ -1,11 +1,24 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /academics/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: A 
+years: [2019]
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<div class="publications">
 
-Organize your courses by years, topics, or universities, however you like!
+{% for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f papers -q @*[year={{y}}]* %}
+{% endfor %}
+
+</div>
+
+
+<div class="teaching">
+
+  <h2 class="year">2019</h2>
+ <a href=https://www.coursicle.com/cmu/courses/STU/98357/> 98357: Introduction to Pakistan and its Culture </a>
+</div>
