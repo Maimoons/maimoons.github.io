@@ -2,7 +2,7 @@
 layout: page
 permalink: /academics/
 title: teaching
-description: A 
+description: Little undergraduate teaching and academic experiences
 years: [2019]
 nav: true
 ---
@@ -20,5 +20,5 @@ nav: true
 <div class="teaching">
 
   <h2 class="year">2019</h2>
- <a href=https://www.coursicle.com/cmu/courses/STU/98357/> 98357: Introduction to Pakistan and its Culture </a>
+ <a href="https://www.coursicle.com/cmu/courses/STU/98357/"> 98357: Introduction to Pakistan and its Culture </a>
 </div>
