@@ -3,7 +3,7 @@ layout: page
 permalink: /academics/
 title: academics
 description: Little undergraduate teaching and academic experiences
-years: [2019]
+years: [2020]
 nav: true
 ---
 
