@@ -11,7 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-icon: 🔥 # the emoji used as the favicon
+icon: 🌙 # the emoji used as the favicon
 url:   # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
@@ -58,7 +58,7 @@ wikidata_id: # your wikidata id
 contact_note: >
   Want to chat? Send an email :)
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: G-VT0MJSB1L4 # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
@@ -74,7 +74,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: maimoon # put your disqus shortname
+disqus_shortname: maimoonsiddiqui # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -133,31 +133,6 @@ plugins:
 
 # Extras
 github: [metadata]
-
-# -----------------------------------------------------------------------------
-# Jekyll Scholar
-# -----------------------------------------------------------------------------
-
-scholar:
-
-  last_name: Siddiqui
-  first_name: Maimoon
-
-  style: apa
-  locale: en
-
-  source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
-
-  replace_strings: true
-  join_strings: true
-
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
-
-  query: "@*"
 
 # -----------------------------------------------------------------------------
 # Optional Features
