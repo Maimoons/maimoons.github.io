@@ -2,7 +2,7 @@
 layout: page
 title: Tweets Classification
 description: summer research project to classify twitter tweets.
-img: /assets/img/3.jpg
+img: /assets/img/2.jpg
 importance: 2
 github: https://github.com/Maimoons/Qatar-Computing-Research-Institute--Summer-2017
 category: work
