@@ -4,6 +4,7 @@ title: project 1
 description: a project with a background image
 img: /assets/img/12.jpg
 importance: 1
+github: https://github.com/Maimoons/Qatar-Computing-Research-Institute--Summer-2017
 category: work
 ---
 
