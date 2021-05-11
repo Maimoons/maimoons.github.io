@@ -7,7 +7,7 @@ years: [2020]
 nav: true
 ---
 
-<hr> 
+***
 
 <div class="publications"> 
   <h2>publication</h2>
@@ -17,7 +17,7 @@ nav: true
      {% endfor %}
 </div>
 
-
+***
 
 <div class="teaching">
   <h2>teaching</h2>
