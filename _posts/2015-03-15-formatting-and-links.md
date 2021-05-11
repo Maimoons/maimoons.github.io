@@ -1,28 +1,26 @@
 ---
 layout: post
-title:  a post with formatting and links
-date:   2015-03-15 16:40:16
-description: march & april, looking forward to summer
+title:  The year 2020
+date:   2021-02-1 16:40:16
+description: looking forward to summer
 ---
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com" target="blank">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice" target="blank">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+It has been one year to my first full-time job. I graduated in December 2019, a semester earlier, and in hindsight I should have taken some time off after graduating. Perhaps to travel? or to spend time with some dear friends I hadn't spent time with in ages? or maybe just do do some other things (any thing) that gives me some sort of happiness. 
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+I for some reason decided to jump right into work, starting Jan 2020.. 🤦🏻‍♀️
 
-<hr>
+I took the first offer I got, and it seemed like a very good deal to my fresh graduate self. The campus was beautiful, the compensation was more than I imagined, and taking up the job meant I could be in the same city as my family after some 4 years. I didn't have a reason to not take that offer.
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+I am a software developer at a health-tech company, and doing development for clinical platforms does give me a sense of satisfaction about what I am doing. The first couple of months were relaxed but still on learning curve. I was accustomed to a much more rigorous learning environment since my childhood (childhood??), that the exams and training at work initially seemed unneccesary. I do not mind accepting that could have been arrogant on my part. I think a lot of that has to do with the wrong expectations I had for myself post-graduation. But now, I do (?)  appreciate the kind of training program they have set out for the new hires. It's a different more structured experience than let say working at a startup, but it is nevertheless warranted given the company size and the amount of internal tools and internal practices. That training is essentially some time to play in the new workspace that you have to start developing in soon.
 
-<blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
-</blockquote>
+Going back to the expectations I had for myself post graduation -- I still do not know what is the right expectation moving forward. I had started in to computer science completely oblivious to what it was before. And to think of it, I mostly enjoyed and thrived because it was all so novel and challenging. I think I like the adrenaline rush with not knowing how to do something and then killing myself over trying to do it :) Had it been easy for me, I would have been bored and sad and had probably left. And I think I let the idea that it will always be challenging stick with me. And now that I do not find it challenging, I like to think I have earlier mid life existential crisis where I do not know what to do. Was that a wrong expectation that I could have prevented? I am not sure who could have warned me about it or if I could have warned myself some how. Work is very long and tiresome (it is another story why I have to work from 7am to 7 pm), but it's mostly physical exhaustion. 
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+So of course I tried to keep myself busy for the year. I made many plans and tried acting on those many plans. The first plan of course was that that was it. This will be my life as a developer and I might just enjoy the money that I am making. Maybe traveling would have given me some sort of purpose to feel good about myself, but given the year 2020 I only got to travel within the US. I did travel from one coast to the other, met two important people in my life and explored one of the states a bit. Weirdly the entire time I was on vacation, I wanted to open my work laptop and start working. Maybe I took my vacation earlier than I should have.. 
+
+Now the second plan was that I apply to other jobs and see if there was a company out there that would give me a role that wouldn't reach a monotonous stage. I interviewed at countless companies, most of the big tech giants but I didn't make it in the places that I wanted. I lost track of the number of those repeated online assessments, and phone interviews and virtual on site that I had to do. But maybe I didn't know my trees and queues to crack those interviews (ironically I had read the book cracking the interview too). It would be an understatement to say I felt sad, I was utterly disappointed in myself. 
+
+Some months went by and then came my third plan, I was working at a health tech and medicine has always interested me (mostly because I had never studied biology in school) and I was curious to know even the basics. So I naturally ordered some books and started self teaching myself. I had to teach myself from the basics and I was enjoying it so much! every sentence was a new idea for me that fascinated me so much. Learning about how the internal systems worked and how beautifully all of it was linked together kept me happy. But it was pretty short lived. Four months later that I had finished all 6 books for mcat, I tried convincing myself that med school is not the way for me and it would be a wrong decision to spend the next 4 months preparing for the exam. This is a common theme where I put in my all in one thing and when it seems so close and achievable, I side track.. Now I still have those 4 months and while I am still deciding I decided to start writing all of my plans down :)
+
+A plan that I am currently working on simultaneously is applying to graduate schools. But of course how could I make up my mind if I want to go for a masters or a phd, so I mostly just gambled and picked whichever degree seemed most appealing at whichever place. I really hope I make it to one of the places or this plan might be utterly fruitless too. *yikes*. And best part yet -- if in the rare occasion I do make it somewhere, watch me convince myself to not go for it :)
+
+And I hope the next year gives me some more clarity than the year 2020. The year has been challenging to a lot of people in a lot of ways and I am definitely do not mean to complain for the little inconveniences I am going through. But I am merely writing about how I am trying to find more life purposes or looking for more things to do. What I have rn is more than enough ah, I'm just trying to have fun while I can :) (or maybe ....)
