@@ -21,5 +21,5 @@ nav: true
 
 <div class="teaching">
   <h2>teaching</h2>
-      <a href="https://www.coursicle.com/cmu/courses/STU/98357/"> 98357: Introduction to Pakistan and its Culture                                       2019</a>
+      <a href="https://www.coursicle.com/cmu/courses/STU/98357/"> 98357: Introduction to Pakistan and its Culture </a>                                   2019
 </div>
